@@ -1,7 +1,8 @@
 #!/bin/bash
 
-HEIGLIGHT='\033[0;37m'
-NO_COLOR='\033[0m'
+#HEIGLIGHT="\033[0;37m"
+HEIGLIGHT="\033[0;34m"
+NO_COLOR="\033[0m"
 
 rspec && \
 echo -e "${HEIGLIGHT}
