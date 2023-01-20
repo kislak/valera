@@ -1,3 +1,5 @@
+#!/bin/bash
+
 HEIGLIGHT='\033[0;37m'
 NO_COLOR='\033[0m'
 
